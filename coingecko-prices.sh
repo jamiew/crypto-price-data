@@ -10,12 +10,20 @@ data=(
   tezos
   blockstack
   snowbank
-  klima
-  jewel
+  klima-dao
+  defi-kingdoms
   one
   avax
   friends-with-benefits-pro
   ethereum-name-service
+  livepeer
+  xdai
+  weth
+  usd-coin
+  wrapped-steth
+  matic-network
+  toucan-protocol-base-carbon-tonne
+  solana
 )
 
 # combine into comma-separated string
