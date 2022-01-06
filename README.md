@@ -12,7 +12,7 @@ e.g. you could run it on a public-facing web server
 ./run.sh > /var/www/html/crypto-prices.json
 ```
 
-Then in your Google Sheet, try:
+Then in your Google Sheet, try something like:
 
 ```
 =ImportJSON("https://yourwebsite.com/crypto-prices.json", "", "rawHeaders,noTruncate,noInherit")
