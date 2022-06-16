@@ -12,8 +12,9 @@ data=(
   snowbank
   klima-dao
   defi-kingdoms
-  one
-  avax
+  harmony
+  avalanche
+  avalanche-2
   friends-with-benefits-pro
   ethereum-name-service
   livepeer
@@ -24,6 +25,9 @@ data=(
   matic-network
   toucan-protocol-base-carbon-tonne
   solana
+  gods-unchained
+  cabin
+  interest-compounding-eth-index
 )
 
 # combine into comma-separated string
