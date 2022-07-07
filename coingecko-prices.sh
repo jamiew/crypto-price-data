@@ -32,6 +32,7 @@ data=(
   rocket-pool
   rocket-pool-eth
   optimism
+  looks
 )
 
 # combine into comma-separated string
