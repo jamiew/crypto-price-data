@@ -34,6 +34,7 @@ data=(
   rocket-pool-eth
   optimism
   looks
+  magic-internet-money
 )
 
 # combine into comma-separated string
