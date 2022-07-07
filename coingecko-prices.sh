@@ -28,6 +28,10 @@ data=(
   gods-unchained
   cabin
   interest-compounding-eth-index
+  lido-staked-ether
+  rocket-pool
+  rocket-pool-eth
+  optimism
 )
 
 # combine into comma-separated string
