@@ -28,6 +28,7 @@ data=(
   gods-unchained
   cabin
   interest-compounding-eth-index
+  staked-ether
   lido-staked-ether
   rocket-pool
   rocket-pool-eth
