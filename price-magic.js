@@ -20,6 +20,11 @@ async function run() {
       if(j.id == id) return j;
     })[0];
 
+    if (!res) {
+      // console.error(`error: missing data for ${id}`);
+      continue;
+    }
+
     newPrices[id] = {
       // id: id,
       name: res.name,
