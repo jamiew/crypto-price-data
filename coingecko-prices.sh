@@ -5,6 +5,8 @@ data=(
   ethereum 
   bitcoin 
   helium
+  helium-iot
+  helium-mobile
   filecoin
   the-graph
   tezos
