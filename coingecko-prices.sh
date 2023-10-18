@@ -32,6 +32,7 @@ data=(
   interest-compounding-eth-index
   staked-ether
   lido-staked-ether
+  wrapped-steth
   rocket-pool
   rocket-pool-eth
   optimism
