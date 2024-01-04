@@ -39,6 +39,12 @@ data=(
   looks
   magic-internet-money
   arbitrum
+  cosmos-hub
+  injective
+  celestia
+  osmosis
+  kujira
+  secret
 )
 
 # combine into comma-separated string
@@ -57,5 +63,4 @@ output=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=$ids&vs_curr
 echo "$output"
 # echo "$output" | jq
 # echo "$output" > "$outfile"
-
 
