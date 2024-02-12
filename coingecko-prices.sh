@@ -45,6 +45,13 @@ data=(
   osmosis
   kujira
   secret
+  marinade-staked-sol
+  liquid-staking-token
+  blazestake-staked-sol
+  jito-staked-sol
+  jito
+  jupiter
+  wen-4
 )
 
 # combine into comma-separated string
