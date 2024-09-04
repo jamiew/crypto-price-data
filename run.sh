@@ -3,7 +3,7 @@
 
 cd "$(dirname "$0")"
 
-node price-magic.js > data/usd.json
+/home/jamie/.nodenv/shims/node price-magic.js > data/usd.json
 # cat data/usd.json | jq
 cat data/usd.json
 
